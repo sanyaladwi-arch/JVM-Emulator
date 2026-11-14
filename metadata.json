@@ -1,0 +1,8 @@
+{
+  "name": "Remix JVM Architecture \u0026 Bytecode Emulator",
+  "description": "Production-grade JVM emulator featuring runtime data areas (PC, stack frames, LVT, operand stack, heap, constant pool), custom bytecode loader, execution engine with trace logging, and complete Java source tree.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
